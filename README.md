@@ -15,7 +15,7 @@ $ npm start
 
 ## API Specification
 
-### Response
+### Request
 
 Endpoint : ``/verify``
 
